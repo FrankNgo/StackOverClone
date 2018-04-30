@@ -35,3 +35,9 @@ textarea {
         display: none;
     }
 }
+
+
+.navbar, .navbar-inverse {
+    background: #000 !important;
+    border-color: #000 !important;
+}
